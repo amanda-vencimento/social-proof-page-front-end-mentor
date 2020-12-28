@@ -1,0 +1,34 @@
+body {
+    font-family: 'Spartan', sans-serif;
+}
+
+.bg-top {
+    position: absolute;
+    top: 0;
+}
+
+#title{
+    
+    padding: 2% 65% 15% 10%;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+}
+
+desc{
+    color: hsl(303, 10%, 53%);
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+#attribution {
+    font-size: 11px;
+    text-align: center;
+}
+#attribution a {
+    color: hsl(228, 45%, 44%);
+}
